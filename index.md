@@ -16,3 +16,9 @@
 for _ in range(100)
   print('GitHub is AMAZING!')
 ```
+- [x] First Item
+- [ ] Second Item
+- [ ] Third Item
+- [ ] Fourth Item
+- [x] Fifth Item
+- [ ] Sixth Item
